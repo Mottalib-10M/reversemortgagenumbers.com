@@ -1,0 +1,21 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME, REVIEW_CYCLE_MONTHS } from '../../data/site-config';
+const lang = 'en';
+---
+<PageLayout title="Editorial policy of Reverse Mortgage Math: HUD texts, dated figures" description="How Reverse Mortgage Math writes its HECM pages: HUD and federal texts only, every figure read from a dated data file, assumptions labeled, no money from lenders or brokers." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Editorial policy</h1>
+    <h2>What counts as a source</h2>
+    <p>Program rules come from HUD: the principal limit factor table, the Mortgagee Letters that set each year's limit, Handbook 4000.1 and the HECM payment plan form, and from the regulation itself, 24 CFR part 206. The life table of the set-aside comes from Regulation Z, Appendix L. Treasury yields come from the U.S. Treasury's daily par yield curve. Tax and benefit rules come from IRS Publication 936 and the Social Security POMS. Lender sites, forums and news articles are read to know what people ask, never as the source of a number.</p>
+    <h2>How a figure reaches a page</h2>
+    <p>No amount is typed into the text. A data file holds each rule and rate with its source and the date it was read; the calculators and the pages read that file. The factor table is loaded whole, 82 ages by 128 rates, and tested against values read in HUD's workbook; the fee rule, the set-aside formula and the payment plan lines are tested against the examples of the Handbook. If a figure drifts, the site does not build.</p>
+    <h2>Assumptions are labeled</h2>
+    <p>Lenders set their own margin and closing costs. The calculators use the latest weekly Treasury yields and an example margin that is labeled as such, and leave third-party closing costs at zero until you type yours. A figure that is not published yet, such as the 2027 limit, is shown as upcoming with its expected date, never guessed.</p>
+    <h2>Independence</h2>
+    <p>{AUTHOR_NAME} receives nothing from lenders, brokers, counseling agencies or insurers and links to none of them. There is no advertising today; if some is added it will be labeled, limited to three places a page, and never come from a firm that sells mortgages or collects leads.</p>
+    <h2>Review and corrections</h2>
+    <p>The site is reviewed at least every {REVIEW_CYCLE_MONTHS} months, and when HUD publishes a Mortgagee Letter on HECM limits (usually in December), a new factor table or a Handbook update. A reported error is checked against the source and, once fixed, moves the date shown on the page. Write through the <a href={route('contact', lang)}>contact page</a>; the formulas are on the <a href={route('method', lang)}>method page</a>.</p>
+  </div>
+</PageLayout>

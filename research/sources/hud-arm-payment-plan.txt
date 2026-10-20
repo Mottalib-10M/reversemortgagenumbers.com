@@ -1,0 +1,218 @@
+Last Revised: 04/01/2024 1 
+U.S. Department of Housing and Urban Development (HUD) 
+HOME EQUITY CONVERSION MORTGAGE (HECM) 
+EXHIBIT 1 - ADJUSTABLE RATE MORTGAGE PAYMENT PLAN1 
+ 
+Date Payment Plan Commences: _____________________ 
+FHA Case No.: ___________________________________ 
+Name of Lender: _________________________________ 
+Name of Borrower(s) and Eligible Non-Borrowing Spouse, if applicable: Birthdate: 
+__________________________________________________________ ___/___/___ 
+__________________________________________________________ ___/___/___ 
+__________________________________________________________ ___/___/___ 
+Indicate the Payment Plan Option: ___________ 
+First 12-Month Disbursement Period Expiration Date: ___________ 
+Expected Average Mortgage Interest Rate: __________% 
+Was the Expected Average Mortgage Interest Rate locked? __ Yes __ No 
+Date used to select the Index for establishing the Expected Average  
+Mortgage Interest Rate and calculating the Principal Limit: ___________ 
+Initial Mortgage Interest (Note) Rate: ___________ 
+Mortgagee’s Margin: ___________ 
+ 
+ 
+Real estate taxes and insurance premiums to be paid? 
+Check One: 
+___ Required Fully-Funded LESA ___ Required Partially-Funded LESA 
+___ Voluntary Fully-Funded LESA ___ Borrower Responsible 24 CFR § 206.205(e) 
+___ Borrower Elects Mortgagee Pay Option 24 CFR § 206.205(d) 
+ 
+ 
+  
+ 
+1 Published  04/26/2024. Effective for case numbers assigned on or after 04/29/2024. 
+Last Revised: 04/01/2024 2 
+Calculation of Disbursements 
+ 
+ 
+1. Principal Limit (PL) $___________ 
+1a. 10% of PL $___________ 
+1b. 50% of PL $___________ 
+1c. 60% of PL $___________ 
+2. Additional 10% of PL Usage $___________ 
+ 
+ 
+Mandatory Obligations and Set-Asides: 
+3. Initial Mortgage Insurance Premium (MIP) $___________ 
+4. Other Closing Costs $___________ 
+5. Discharge of Liens $___________ 
+6. Contract Sales Price $___________ 
+7. Repair Set-Aside $___________ 
+8. 1st Yr. Property Charge Set-Aside Disbursements $___________ 
+9. 1st Yr. Life Expectancy Set-Aside (LESA) Disbursements $___________ 
+10. Mandatory Obligations (Add Line 3 through Line 9) $___________ 
+11. Cash from Borrower ($__________) 
+12. Cash from Lender/Interested Party Contribution ($__________) 
+13. Mandatory Obligations Financed by HECM 
+[Line 10 – Line 11 – Line 12] $___________ 
+14. Servicing Fee Set-Aside (SFSA) $___________ 
+15. LESA Amount $___________ 
+16. Net LESA Amount After 1st Yr. [Line 15 – Line 9] $___________ 
+ 
+ 
+Initial Disbursement Limit Determination: 
+17. 60% of PL $___________ 
+18. Mandatory Obligations plus 10% of PL $___________ 
+19. Enter the Greater of Line 17 or Line 18 $___________ 
+20. Enter the amount of Line 1 – Line 14 – Line 16 $___________ 
+21. Initial Disbursement Limit [Lesser of Line 19 or Line 20]  
+(This amount may not exceed Line 1.) $___________ 
+ 
+  
+Last Revised: 04/01/2024 3 
+ 
+ 
+First Year Funds: 
+22. Initial Loan Advance to Borrower $___________ 
+23. Total Deductions [Line 2 + Line 13 + Line 22] $___________ 
+24. Net Initial Disbursement Limit [Line 21 – Line 23] $___________ 
+(This amount may not produce a negative amount.) 
+ 
+ 
+Net Principal Limit: 
+25. Net Principal Limit [Line 1 – Line 14 – Line 16 – Line 23] $___________ 
+ 
+ 
+Designation of Funds: 
+26. Amount available for Line of Credit $___________ 
+27. Outstanding Balance $___________ 
+28. Amount available for Monthly Payments $___________ 
+ 
+ 
+Scheduled Payments (select either Term or Tenure, if applicable): 
+29. ___ Term (Remaining) ___ Yrs. ___ Mos. 
+30. ___ Tenure  
+31. Monthly Payment $___________ 
+32. Monthly Withholding (Tax & Insurance) $___________ 
+33. Net Monthly Payment [Line 31 – Line 32] $___________ 
+ 
+ 
+I/We, the undersigned, certify under penalty of perjury that the information provided above is 
+true, correct, and accurate.  
+Name of Lender’s Representative: ____________________________________ 
+Title of Lender’s Representative: _____________________________________ 
+Signature of the Lender’s Representative: __________________________  Date: _________ 
+ 
+ 
+By signing below, the Borrower(s) agree(s) that this document accurately describes the principal 
+features of the current payment plan chosen by the Borrower(s). 
+Borrower Signature: ___________________________________ Date: __________ 
+Borrower Signature: ___________________________________ Date: __________ 
+ 
+WARNING: Anyone who knowingly submits a false claim or makes a false statement is subject 
+to criminal and/or civil penalties, including confinement for up to 5 years, fines, and civil and 
+administrative penalties. (18 U.S.C. §§ 287, 1001, 1010, 1012, 1014; 31 U.S.C. §§ 3729, 3802)  
+Last Revised: 04/01/2024 4 
+Instructions for Completing the Borrower’s Payment Plan 
+This form is to be completed at loan closing (closing) and whenever the borrower chooses a 
+different payment plan option or has the payment plan re-calculated. This form, when completed 
+at closing, must be attached to the Loan Agreement.  
+Line 1. Enter the borrower’s current principal limit, calculated in accordance with FHA 
+regulations and requirements, regardless of whether the form is completed at closing or after 
+closing. Lines 1a through 1c are applicable when the form is completed at closing. 
+Line 2. Enter the amount the borrower chooses to receive during the First 12-Month 
+Disbursement Period when mandatory obligations exceed 50% of the principal limit, calculated 
+in accordance with FHA regulations and requirements. This line is not applicable after the First 
+12-Month Disbursement Period ends and “N/A” may be entered.  
+Line 3. Enter the amount of the initial MIP, calculated in accordance with FHA regulations and 
+requirements, only when this form is completed at closing. 
+Line 4. Enter the amount of other closing costs financed into the mortgage that are not already 
+listed, including delinquent federal debt. After closing, “N/A” may be entered as this line is not 
+applicable after closing. 
+Line 5. Enter the amount of any existing liens on the property that meet FHA seasoning 
+regulations and requirements and will be paid-in-full at closing from HECM funds. For HECM-
+to-HECM refinance transactions, include existing HECM debt. Do not include liens against the 
+property that will be subordinated. After closing, “N/A” may be entered as this line is not 
+applicable after closing. 
+Line 6. Enter the amount of the contract sales price for purchase transactions. After closing, 
+“N/A” may be entered as this line is not applicable after closing. 
+Line 7. Enter the amount of HECM funds necessary to pay for required repairs completed after 
+closing. The amount can be found on the Repair Rider - Exhibit 3 of the Loan Agreement when 
+this form is completed at closing. After closing, enter the amount of any remaining funds for 
+required repairs that have not yet been completed. 
+Line 8. Enter the amount of HECM funds necessary to pay for property charges to be assessed 
+during the first year of the mortgage when the borrower elects to have the lender pay such 
+charges (see 24 CFR § 206.205(d)) and cannot be collected after the mortgage has closed.  
+Line 9. Enter the amount of HECM funds, calculated in accordance with FHA regulations and 
+requirements, to be disbursed during the first year of the mortgage from the LESA for the 
+payment of real estate taxes and/or hazard and flood insurance premiums. 
+Line 10. Enter the sum of adding Lines 3 through Line 9.  
+Line 11. Enter the amount of personal funds the borrower will bring to settlement to offset the 
+closing costs and/or the amount needed to satisfy liens against the property. An amount must be 
+Last Revised: 04/01/2024 5 
+entered when mandatory obligations exceed the principal limit or when the borrower voluntarily 
+elects to pay a portion of their closing costs from personal funds. 
+Line 12. Enter the amount the lender will pay at loan closing towards the borrower’s closing 
+costs, including Interested Party Contributions for purchase transactions. [Text was deleted from 
+this item] 
+Line 13. Enter the difference of Line 10 minus Line 11, and minus Line 12. This amount may not 
+exceed the principal limit or Initial Disbursement Limit.  
+Line 14. Enter the amount of the Servicing Fee Set-Aside, calculated in accordance with FHA 
+regulations and requirements. “N/A” may be entered when the servicing fee is included in the 
+borrower’s Note Rate. After closing, enter the amount of any funds remaining for monthly 
+servicing charges. 
+Line 15. Enter the full amount of the LESA, calculated in accordance with FHA regulations and 
+requirements.  
+Line 16. Enter the difference of Line 15 minus Line 9. This is the amount of funds that will 
+remain in the LESA, upon the expiration of the First 12-Month Disbursement Period, for the 
+payment of real estate taxes and/or hazard and flood insurance premiums. 
+Line 17. Enter the amount from Line 1c. 
+Line 18. Enter the sum of adding Line 10 and Line 1a. 
+Line 19. Enter the greater amount of Line 17 or Line 18. 
+Line 20. Enter the difference of Line 1 minus Line 14, and minus Line 16.  
+Line 21. Enter the Initial Disbursement Limit, which is the lesser of Line 19 or Line 20, only 
+when this form is completed at closing. This amount may not exceed the principal limit in 
+Line 1. 
+Line 22. Enter the amount of the initial loan advance made to the borrower at closing. When this 
+form is completed after closing, enter the amount of any unscheduled payments as a result of the 
+payment plan change. 
+Line 23. Enter the sum of adding Line 2, Line 13, and Line 22. 
+Line 24. Enter the borrower’s net Initial Disbursement Limit available through any combination 
+of line of credit payment or monthly payments during the remainder of the First 12-Month 
+Disbursement Period, which is the difference of Line 21 minus Line 23. After the First 12-Month 
+Disbursement Period, “N/A” may be entered on this line. 
+Line 25. Enter the borrower’s estimated net principal limit available through any combination of 
+line of credit payment or monthly payments upon the expiration of the First 12-Month 
+Disbursement Period, which is the difference of Line 1 minus Line 14 minus Line 16 minus Line 
+Last Revised: 04/01/2024 6 
+23. This amount does not include any increase to the principal limit during the First 12-Month 
+Disbursement Period. 
+Line 26. Enter the amount designated by the borrower to be available as a line of credit. During 
+the First 12-Month Disbursement Period, this amount may not exceed Line 24 less any amount 
+designated for either term or tenure payments. After the First 12-Month Disbursement Period, 
+this amount may not exceed Line 25 less any amount designated for either term or tenure 
+payments.  
+Line 27. Enter the current outstanding balance on the mortgage if the form is completed after 
+closing. The outstanding balance is the amount of any payments made to or on behalf of the 
+borrower including loan advances, payments from a line of credit or monthly payments, plus any 
+interest and fees that have accrued since those payments were made. At closing, “N/A” may be 
+entered as this line is not applicable until after closing. 
+Line 28. Enter the amount of funds available for monthly payments to the borrower. If this form 
+is completed at closing and during the First 12-Month Disbursement Period, enter the sum of 
+Line 24 minus Line 26. After the First 12-Month Disbursement Period, enter the sum of Line 25 
+minus Line 26.  
+Line 29. If the borrower wishes to receive monthly payments for a specified term, enter the term 
+chosen by the borrower. If the form is completed after closing, and the borrower is not changing 
+the term previously chosen, enter the remaining time left in the term. 
+Line 30. If the borrower wishes to receive monthly payments for the rest of their life, in 
+accordance with FHA regulations and requirements, indicate selection of the tenure option. 
+Line 31. Enter the amount of the monthly payment calculated in accordance with FHA 
+regulations and requirements.  
+Line 32. Enter the monthly amount necessary to cover one-twelfth (1/12) of the borrower’s 
+annual property charges. This amount is deducted from the borrower’s monthly payment but is 
+not added to the outstanding balance until the charges are actually paid. This line is not 
+applicable for loans with a LESA or for loans in which the borrower has responsibility for paying 
+property charges. 
+Line 33. Enter the amount of the monthly payment that the borrower will receive, which is the 
+difference of Line 31 minus Line 32.  
+If the lender and the borrower have established a graduated payment schedule from the funds 
+available in the borrower’s line of credit, attach the schedule to this form. 

@@ -1,0 +1,856 @@
+ 
+HUD Underestimated Rising 
+Property Charges for an 
+Estimated 1,237 HECM 
+Borrowers 
+Report Number: 2026-KC-0003 
+May 5, 2026 
+Office of Audit and Evaluation | Office of Inspector General 
+U.S. Department of Housing and Urban Development 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Highlights 
+HUD Underestimated Rising Property Charges for an Estimated 1,237 
+HECM Borrowers | 2026-KC-0003 
+What We Audited and Why 
+We conducted an audit on the effectiveness of the U.S. Department of Housing and Urban Development’s 
+(HUD) Home Equity Conversion Mortgage (HECM) program’s Life Expectancy Set Asides (LESA).  The LESA 
+is a set aside portion of the HECM mortgage that makes property tax, hazard insurance, and flood 
+insurance payments on behalf of certain financially vulnerable borrowers.  While not guaranteed, the 
+LESA funds are intended to last for the full duration of the borrower’s life expectancy.  We initiated this 
+audit because of recent federal reporting on rising nationwide property tax and hazard insurance costs, 
+paid for by LESA funds.  Analysis of LESA fund availability in active HECM loans indicated that some LESAs 
+were depleting at an accelerated rate.  Our audit objective was to determine whether LESAs were 
+meeting the intent of the program for financially vulnerable borrowers. 
+What We Found 
+An estimated 1,237 HECM borrowers will need to begin making property charge payments out of pocket 
+because their LESAs will deplete in significantly less time than HUD estimated they would last. 
+This occurred because HUD did not evaluate whether LESA calculations were effective or whether LESAs 
+wo
+uld be available for the borrowers’ estimated life expectancy.  If borrowers cannot make these 
+property charge payments out of pocket, their HECM loans would default, resulting in a projected loss of 
+$258 million to HUD. 
+What We Recommend 
+We recommend that the Deputy Assistant Secretary for Single Family Housing periodically evaluate the 
+sufficiency of the LESA formula and whether active LESAs are being depleted at an accelerated rate, to 
+address $258 million in funds that could be put to better use. 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+Background and Objective ........................................................................................ 1 
+Results of Audit ............................................................................................................. 3 
+HUD Underestimated Rising Property Charges for an Estimated 1,237 HECM Borrowers ...................... 3 
+Scope and Methodology ............................................................................................. 8 
+Appendices ..................................................................................................................... 10 
+Appendix A – Schedule of Funds to Be Put to Better Use ...................................................................... 10 
+Appendix B – Management Response .................................................................................................... 11 
+Appendix C – Criteria .............................................................................................................................. 14 
+Appendix D – Total Years LESA Fund Available ....................................................................................... 16 
+Appendix E – Sample Projection – Results and Methodology ................................................................ 19 
+ 
+ 
+  
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 1 
+Background and Objective 
+The Federal Housing Administration (FHA), a part of HUD, provides mortgage insurance on loans made by 
+FHA-approved lenders throughout the United States and its territories.  The FHA insurance program is 
+one of the largest insurers of mortgages in the world, insuring more than 50 million mortgages since its 
+inception in 1934.  This insurance allows lenders to bear less risk because FHA will pay a claim in the 
+event of a homeowner default.  FHA’s Single Family mortgage insurance programs protect mortgage 
+lenders against losses from default, encouraging lenders to provide mortgage financing to eligible 
+homebuyers, including first-time and low-to-moderate income homebuyers.  HUD’s Office of Single 
+Family Housing supports affordable homeownership and refinancing opportunities for qualified 
+borrowers through the FHA Single Family mortgage insurance programs. 
+FHA insures HECM reverse mortgages which provides federally insured financing to eligible borrowers, 62 
+yea
+rs of age and older, who want to convert the equity in their homes into liquid assets.  HECM 
+borrowers may reside in their homes indefinitely if property taxes and homeowner's insurance are kept 
+current.  
+In fiscal year 2024, FHA provided mortgage insurance for 26,501 HECMs totaling $13.36 billion in 
+max
+imum claim amount (MCA), as shown in figure 1.1
+1 The MCA represents FHA’s maximum risk exposure of the portfolio and serves as a cap on the amount of 
+insurance claims that FHA will pay the lender for unassigned loans.  
+ 
+Figure 1. FHA HECM Endorsement Activity 
+ 
+ 
+HECM Endorsements by Fiscal Year
+2018
+48,329
+2019
+31,
+272
+2020
+41,
+835
+2021
+49, 196
+2022
+64,
+470
+2023
+32,
+974
+2024
+26,
+501
+Source: U S Department of HUD/FHA, October 2024  
+In 2015, HUD introduced a requirement for lenders to perform a financial assessment of new HECM 
+borrowers to evaluate the borrower’s ability to pay their property taxes, hazard insurance, and personal 
+living expenses while residing in the home.  The financial assessment is also used to determine if the 
+HECM will be a sustainable solution to the borrower’s financial circumstances.  For financially vulnerable 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 2 
+borrowers whose credit or property charge payment history did not meet HUD standards, HUD requires a 
+LESA account to be attached to their HECM loan at the time of closing.2
+2 The financial assessment can require the borrower to have a mandatory fully funded LESA or a voluntary partially 
+funded LESA for less financially vulnerable borrowers.  We focused on mandatory, fully funded LESAs. 
+  See appendix C of this report for 
+relevant criteria.  The lender calculates the amount of the LESA using the borrower’s current age, 
+property tax and hazard insurance costs, and a formula provided by HUD.  With a LESA in place, the 
+lender pays property taxes, hazard insurance, and flood insurance on behalf of the borrower for the 
+duration of the borrower’s estimated life expectancy or until the LESA account is exhausted.  Generally, 
+the depletion of the LESA will require the HECM borrower to pay these costs from their own funds.  This 
+is important because failure to pay property taxes, hazard insurance, or flood insurance costs for the 
+property will result in a default of the HECM loan.3
+3 The HECM will be considered in default resulting in due and payable status if: 1) the Set -Aside account has been 
+exhausted, 2) the borrower fails to remit the property charge payment in full within 30 days as required after being 
+notified, and 3) the principal limit is exhausted.  
+ 
+Our audit objective was to determine whether LESAs were meeting the intent of the program for 
+fi
+nancially vulnerable borrowers.   
+ 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 3 
+Results of Audit 
+HUD Underestimated Rising Property Charges for an Estimated 1,237 
+HECM Borrowers    
+LESAs are depleting significantly faster than calculated for an estimated 1,237 HECM borrowers, who will 
+need to be informed that they must make additional payments from their own funds.  This occurred 
+because HUD did not evaluate whether its LESA formula was effective.  In addition, there is no 
+requirement that active LESAs be evaluated to ensure that they last for the borrower’s estimated life 
+expectancy.  As a result, if borrowers cannot make these payments, their HECM loans will default, 
+resulting in a projected loss of up to $258 million. 
+LESA Funds Depleted Faster than HUD’s Estimations 
+We identified a universe of 1,462 HECM loans with a total MCA valuation of $357 million that closed 
+between 2018 and 2022.  These loans were selected because they showed indications that they could be 
+at risk of early depletion in their LESA accounts.  We selected a statistically representative sample of 80 
+loans from this universe and found that 72 out of 80 loans had LESAs that were either already fully 
+depleted or were on track to fully deplete an average of 6 years before HUD estimated they would last.  
+When statistically projected to our universe, the sample results show an estimated 1,237 HECM 
+borrowers depleting their LESA accounts significantly sooner than HUD calculated they would last.  Figure 
+2 below shows the results of our review of the 80 HECM loans with LESAs. 
+Figure 2. Results of LESA Review  
+ 
+ 
+Results of Review of 80 LESAs
+Accelerated LESA Depletion
+47 
+Loans
+LESA Funds Already Depleted
+25 
+Loans LESA Funds On Track
+2 Loans
+LESA Not Required
+1 Loan
+Loans Paid in Full
+5 Loans
+LESAs for 47 loans were not on track to last for the duration of the borrowers’ life expectancies due to 
+accelerated depletion.  Twenty-five LESAs had already fully depleted at the time of our audit work.  Five 
+LESAs were paid in full, making them no longer applicable to our review, and 2 LESAs were on track to last 
+for the borrowers’ life expectancies.  We also found one LESA with no distributions from it because the 
+LESA was created in error.  
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 4 
+Of the 47 loans not on track to last for the duration of the borrowers’ life expectancies, 15 of those 
+borrowers would have needed to make property charge payments out of pocket in 2026, and 9 of those 
+borrowers would need to make property charge payments in 2027.  Additionally, 23 of those borrowers 
+would need to make payments starting in 2028 and thereafter.  All these borrowers would need to make 
+payments prior to when HUD estimated the LESA funds would be depleted.   
+HUD’s LESA Estimations Were Impacted by a Rise in Property Taxes and 
+Hazard Insurance Costs 
+HUD’s LESA formula already provides for a 120 percent multiplier to consider expected property charge 
+increases.4
+4 See appendix C for relevant criteria. 
+  However, 31 of the 72 borrowers experienced a higher increase in property taxes and hazard 
+insurance costs than estimated.  For those 31, the average amount of increased property charges was 
+about 192 percent with most of them in California, Florida, Colorado, Texas, and Arizona.5
+5 See appendix D for details on the percent annual increases. 
+  The chart 
+below shows the increase in property charges experienced by borrowers in our sample from the year the 
+HECM loan began until 2024. 
+Figure 3. Examples of Individual Property Charge Increases 
+ 
+ 
+ 
+ 
+ 
+California 
+A HECM borrower with a LESA had original property tax and insurance amount s of $2,103 in 2021.  As of 2024, 
+the current property tax and insurance amounted to $12,262.  This represents an increase of 483%. 
+ 
+Arizona 
+A HECM borrower with a LESA had original property tax and insurance amounts of $1,397 in 2018.  As of 2024, 
+the current property tax and insurance amounted to $4,092.  This represents an increase of 193%.  
+ 
+Florida 
+A HECM borrower with a LESA had original property tax and insurance amounts of $1,658 in 2020.  As of 2024, 
+the current property tax and insurance amounted to $6,112.  This represents an increase of 268%.  
+   
+Colorado 
+A HECM borrower with a LESA had original property tax and insurance amounts of $909 in 2019.  As of 2024, 
+the current property tax and insurance amounted to $2,572.  This represents an increase of 183%.  
+  
+Texas 
+A HECM borrower with a LESA had original property tax and insurance amounts of $2,362, in 2020.  As of 2024, 
+the current property tax and insurance amounted to $8,012.  This represents an increase of 239%.  
+ 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 5 
+HUD Did Not Periodically Evaluate the Effectiveness of LESAs  
+HUD did not periodically evaluate whether its LESA formula was updated with the most current and 
+appropriate data, was accurately applied, or whether LESAs were lasting for the borrower’s estimated life 
+expectancy.   
+HUD’s LESA formula used the U.S. Decennial Life Table for 1979-81 which was published in August 1985.  
+Th
+e U.S. Decennial Life Tables were published by the Department of Health and Human Services based on 
+deaths in a period of 3 years and are published on a 10-year basis.  The Life Tables have been updated a 
+few times since 1985, but HUD did not update the LESA program guidance.6
+6 See appendix C for relevant criteria. 
+ 
+In addition, we found 27 loans in our sample of 80 where the LESA calculation may not have properly 
+ro
+unded the borrower's age to the nearest whole year, according to HUD’s Handbook 4000.1 Appendix 9.  
+This added an additional year to the LESA calculation’s projections which may have resulted in inaccurate 
+estimation results.  HUD Handbook 4000.1 requires the life expectancy of the youngest borrower, with 
+the borrower age rounded up to the nearest whole year if the next birthday is less than 183 days after the 
+estimated date of closing. 
+With respect to monitoring LESA depletion rates, HUD routinely assessed defaulted and foreclosed upon 
+HE
+CMs to identify systemic risks, concerns, or trends in its portfolio of reverse mortgages.  However, it 
+did not periodically assess active HECMs to determine whether their LESA accounts were showing signs of 
+accelerated depletion. 
+In addition, HUD did not periodically evaluate the effectiveness of its LESA formula or conduct monitoring 
+of
+ its active LESAs’ depletion rates because such evaluations were not part of the original design of the 
+policy.  While HUD periodically evaluated the success and effectiveness of the HECM program, it did not 
+include a formal examination of its LESA program, nor did it have measurable goals for LESA performance. 
+HECM Borrower Defaults Could Total Up to a Projected $258 Million  
+If the 1,237 depleted LESAs result in borrowers defaulting on their HECMs, then HUD’s losses on these 
+loans could total up to a projected $258 million.7
+7 See appendix E for details on the statistical sample selection and projection.  
+ 
+Rising property charges and a lack of evaluating LESA effectiveness could result in more HECM borrowers 
+exp
+eriencing accelerated depletion of their LESA accounts.  After the LESA is depleted, financially 
+vulnerable HECM borrowers may have only 30 days of notice before they need to begin making property 
+charge payments out of pocket. 
+HUD currently holds 41,002 HECMs with LESAs in its portfolio.  As economic factors continue to change, 
+mo
+re HECM borrowers could experience difficulties keeping their reverse mortgages in good standing.  
+Recommendations 
+We recommend that the Deputy Assistant Secretary for Single Family Housing 
+ 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 6 
+1A. Periodically evaluate the sufficiency of the LESA formula and whether active LESAs are 
+d
+epleting at an accelerated rate to address $258 million in funds to be put to better use. 
+Management Response 
+Single Family agreed to evaluate the current LESA formula to determine whether early LESA fund 
+depletion poses a risk to HUD.  However, Single Family disagreed with the OIG’s projected loss to HUD of 
+$258 million.  It also disagreed that LESA depletion means the HECM will default or that depletion 
+demonstrates that the formula is ineffective. 
+Single Family disagreed with the OIG’s methodology of using a 72.3 percent loss rate to calculate the 
+p
+rojected loss to HUD.  Single Family stated the projected loss rate was overstated and provided loss rate 
+data from its Office of Risk Management (ORM) that indicated an average loss rate of 33.2 percent for 
+HECM real estate owned properties and 26.9 percent for HECM note sales. 
+Single Family disagreed with the OIG’s conclusion that borrower age was calculated incorrectly and stated 
+th
+at it is reasonable for the mortgagee to round up in case the estimated closing date does not align with 
+the actual closing date.   
+Single Family disagreed with the OIG’s conclusion that HUD does not have measurable goals for LESA 
+pe
+rformance. 
+Management’s full comments are in Appendix B. 
+OIG Evaluation of Management Response 
+We appreciate Single Family’s receptiveness to our recommendation to periodically evaluate the 
+sufficiency of the LESA formula and whether active LESAs are depleting at an accelerated rate to address 
+$258 million in funds to be put to better use.  We carefully considered Single Family’s comments and 
+made some changes to the report for clarity; however, the report largely remains unchanged due to the 
+reasons listed below.  During the audit resolution process, OIG will continue to work with Single Family in 
+its efforts to assess the effectiveness of LESAs. 
+We disagree with Single Family’s comment that the 72.3 percent loss rate is overstated.  We requested 
+a
+nd received the HECM loss rate data from HUD’s Single Family Acquired Management System’s (SAMS) 
+Case Management Profit and Loss by Acquisition Cost data report.  We acknowledge that HUD’s Office of 
+Risk Management provided loss rate data with their Management Response; however, the data provided 
+did not align with the SAMS data.  In addition, the ORM data did not include certain foreclosure and 
+holding costs, such as acquisition costs, repair costs, taxes, maintenance and operation expenses, and 
+sales expenses.  This relevant information was present in the SAMS data.   
+With respect to rounding the borrower’s age, our review found 27 loans in our sample of 80 where the 
+l
+ender may not have properly rounded up to the nearest whole year if the borrower’s next birthday was 
+less than 183 days after the estimated date of closing, as required by the Handbook.  However, our 
+review did not include an analysis of LESA funding allocations depending on rounding outcomes, nor did it 
+include alignment of estimated closing date to actual closing date.   
+We acknowledge Single Family’s comment that LESA depletion does not guarantee the HECM will default.  
+H
+owever, HUD identified these borrowers as high risk without the assistance of a LESA as stated in the 
+Background section: “For financially vulnerable borrowers whose credit or property charge payment 
+history did not meet HUD standards, HUD requires a LESA account to be attached to their HECM loan at 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 7 
+the time of closing.”  A significant percentage of the borrowers in our sample will have their LESAs fully 
+depleted before previously expected, which could lead to defaults of up to $258 million. 
+We acknowledge that HUD monitors the performance of the overall HECM portfolio.  However, we did 
+no
+t obtain evidence that HUD performs current and projected assessments to determine whether active 
+LESAs are on track to last for the borrowers’ life expectancies. 
+  
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 8 
+Scope and Methodology 
+We performed our audit work from November 2024 through September 2025.  We conducted our 
+fieldwork off site for this audit.  Our audit period covered January 2018 through December 2024.  
+To accomplish our objective, we: 
+• reviewed relevant laws, regulations, and HUD’s guidance; 
+• interviewed HUD’s HECM staff to gain an understanding of the LESA procedures and 
+r
+equirements; 
+• communicated with servicers to understand the process and procedures for managing LESA 
+f
+unds; 
+• selected and reviewed a statistical sample of HECM loans with fully funded LESAs to determine 
+c
+ompliance with LESA requirements; and 
+• reviewed HECM loan documents provided by the servicers, including property charge records, 
+l
+oan histories, monthly statements, loan origination documents, and correspondence to the 
+borrowers. 
+We used and relied on data from HUD’s Single Family Data Warehouse (SFDW) system to achieve our 
+o
+bjective.  SFDW is a large and extensive collection of database tables, organized and dedicated to 
+support the analysis, verification, and publication of single family housing data.  We used SFDW to 
+identify active HECM loans that had a fully funded LESAs that closed between January 2018 and 
+December 2022. 
+We then identified LESAs that were currently depleted more than 10 percent above HUD’s projected 
+de
+pletion for October 2024.  This resulted in an audit universe of 1,462 active LESAs with a total MCA 
+valuation of $357 million.  From the universe, we selected a statistical sample of 80 loans with a total 
+MCA of $25.2 million.  As a result of our review of these sample loans, we estimated funds to be put to 
+better use using a 72.3 percent loss rate of the $357 million MCA valuation, which totaled $258 million.  
+See appendix E of this report for an explanation of the method used to statistically project the results. 
+We requested and received the HECM loss rate data from SAMS’s Case Management Profit and Loss by 
+A
+cquisition Cost data report.  HUD provided the HECM loss rate data for our audit period of 2018-2022 
+and additionally, the most current HECM loss rate as of May 2025.  The May national report included 
+1,144 properties, along with their acquisition, rent, repair, taxes, maintenance and operations, and sales 
+costs over the last year, resulting in a total annual loss rate of 72.3 percent.   
+We used and relied on the data in the Home Equity Reverse Mortgage Information Technology (HERMIT) 
+s
+ystem.  The HERMIT system is HUD’s HECM servicing platform for collecting mortgage insurance 
+premiums, managing all servicing activities, and paying insurance claims.  We used HERMIT to obtain 
+current LESA balances along with past transactions.   
+We also used and relied on the Neighborhood Watch system, which contains origination and servicing 
+d
+ata to verify accuracy of data obtained from SFDW. 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 9 
+For each loan in our sample, we requested documentation from the borrower’s servicer.  These 
+documents included notes to the loan file; financial assessment worksheets; loan agreements, payment 
+plans; property tax, hazard insurance, and flood insurance records; borrower communications; and other 
+relevant documents.  We reviewed each loan’s LESA calculation at origination to determine whether it 
+was properly calculated, and we compared original property charge amounts to current amounts. 
+We also compared current property charges to projected charges made by the LESA calculation.  We 
+a
+nalyzed the borrower’s current property charges, as well as their remaining LESA balances to estimate 
+the remaining number of years the LESA would last before becoming fully depleted. 
+We conducted the audit in accordance with generally accepted government auditing standards.  Those 
+s
+tandards require that we plan and perform the audit to obtain sufficient, appropriate evidence to 
+provide a reasonable basis for our findings and conclusions based on our audit objective.  We believe that 
+the evidence obtained provides a reasonable basis for our findings and conclusions based on our audit 
+objective. 
+  
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 10 
+Appendices 
+Appendix A – Schedule of Funds to Be Put to Better Use 
+ 
+Recommendation 
+Number 
+Funds to be put to 
+better use 1/ 
+1A $258,046,380  
+ 
+1/ Recommendations that funds be put to better use are estimates of amounts that could be 
+u
+sed more efficiently if an Office of Inspector General (OIG) recommendation is implemented.  These 
+amounts include reductions in outlays, deobligation of funds, withdrawal of interest, costs not incurred 
+by implementing recommended improvements, avoidance of unnecessary expenditures noted in 
+preaward reviews, and any other savings that are specifically identified.  In this instance, if HUD 
+implements our recommendation, it could avoid potential losses for the loans that have depleted or will 
+deplete its LESA funds earlier than HUD projected.  We estimated funds to be put to better use at a 72.3 
+percent loss rate of the maximum claim amount valuation.  
+  
+Appendix B – Management Response
+Docusign Envelope ID: D13E6BDC-B865-4657-B584-403C5F7D9C75
+OFFICE OF HOUSING
+U.S. DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+WASHINGTON, DC 20410-8000
+www.hud.gov
+MEMORANDUM FOR: Kilah White, Assistant Inspector General for Audit, GA
+FROM: Matthew Jones, Deputy Assistant Secretary for Single Family
+Housing, HU
+SUBJECT: Discussion and Comments on Draft Audit: HUD Underestimated
+Rising Property Charges for an Estimated 1,237 HECM Borrowers 
+OIG Audit Report Number: 2026-XX-XXXX
+The Office of Inspector General (OIG) conducted an audit on the effectiveness of the U.S. 
+Department of Housing and Urban Development’s (HUD) Home Equity Conversion Mortgage 
+(HECM) program’s Life Expectancy Set-Aside (LESA) formula and HUD’s evaluation of LESA 
+funds. The OIG audit objective was to determine whether LESAs were meeting the intent of the 
+HECM program. The OIG projects the early depletion of LESAs for 1,237 HECM borrowers and a 
+potential loss of $258 million to HUD. The OIG states that HUD did not evaluate the effectiveness 
+of LESA calculations. The OIG provided a draft audit report to the Office of Single Family Housing 
+(Single Family) for comment.
+Single Family appreciates the OIG for its continued efforts to provide oversight into HUD programs 
+and provides the following comments in response to the draft audit report.
+Recommendation 1A:
+Periodically evaluate the sufficiency of the LESA formula and whether active LESAs are 
+depleting at an accelerated rate to address $258 million in funds to be put to better use.
+Single Family Response:
+Single Family agrees to evaluate the current LESA formula to determine whether early LESA fund 
+depletion poses a risk to HUD. Single Family disagrees with the OIG’s conclusion that there is a 
+projected loss to HUD of $258 million. Specifically, the OIG’s projected loss amount assumes that 
+the depletion of LESA funds is equivalent to a loss to HUD. This conclusion is not supported by 
+observed outcomes.
+The depletion of LESA funds is a result of the set-aside balance reaching zero under actual 
+disbursement patterns and is not a direct indicator that the borrower will default on tax and 
+insurance obligations. HUD data shows that the majority of HECMs with depleted LESA funds 
+remain active and in good standing even after the set-aside funds are exhausted and do not 
+necessarily terminate due to a tax and insurance default. HUD data, as of February 28, 2026, shows 
+90% of non-terminated HECM borrowers with a depleted LESA balance have not reported a tax 
+and insurance default. Therefore, depletion should not be categorically interpreted as a terminal 
+event or as evidence that the set-aside formula is ineffective.
+While borrowers required to have a LESA are generally identified through the financial assessment 
+as presenting a higher potential risk for future nonpayment of property charges, this designation 
+should not be interpreted as a certainty that the borrower will default once LESA funds are 
+exhausted. The LESA functions as a preventive safeguard, not a prediction of inevitable failure. The 
+financial assessment requirements were originally developed in response to performance issues 
+observed in earlier HECM portfolios, where insufficient evaluation of a borrower’s capacity to meet 
+ongoing obligations contributed to higher default rates. While the policy effectively addresses those 
+risks, its implementation has also had a broader behavioral impact. By emphasizing the importance 
+of property charge obligations during the origination process, the policy has increased borrower 
+awareness and accountability. As a result, even borrowers identified as higher risk may demonstrate 
+improved payment behavior over time.
+In addition, Single Family disagrees with the OIG’s methodology of using a 72.3% loss rate to 
+calculate the projected loss to HUD. HUD data, provided by the Office of Risk Management, 
+indicates an average loss rate of 33.2% for HECM real estate owned properties and 26.9% for 
+HECM note sales. Therefore, the projected loss identified by the OIG is overstated.
+Single Family recognizes the OIG has identified a proactive approach to analyzing potential tax and 
+insurance defaults through the evaluation of LESA fund depletion. While the depletion of LESA 
+funds may be a useful indicator of potential risk, the presence of depleted LESA funds is an inherent 
+occurrence when using a formula to project future property charge payment amounts for a 
+borrower’s projected life expectancy and does not demonstrate that the formula is ineffective. In 
+determining the appropriate set-aside formula, Single Family considers not only refinements to the 
+assumptions underlying the formula, but also the broader implications for the HECM program to 
+ensure alignment with program intent while maintaining program viability.
+OIG Identified Areas of Deficiency:
+1. The current LESA formula underestimated future property charge costs.
+(Refer to page 4 of draft report)
+Single Family Response:
+It is reasonable to expect the LESA formula to underestimate future property charge payment 
+amounts for some HECM borrowers. Formulas relying on assumptions will contain some 
+degree of expected error. Further analysis is needed beyond identifying cases where LESA 
+funds were underestimated. Single Family will evaluate the current LESA formula to determine 
+whether refinements are necessary.
+2. The current LESA formula uses an older version of the U.S. Decennial Life Table.
+(Refer to page 5 of draft report)
+Single Family Response:
+The existence of an updated U.S. Decennial Life Table does not necessitate updating the current 
+LESA formula. Further analysis is needed to evaluate the impact of updating life expectancy 
+assumptions. Single Family will evaluate the current LESA formula to determine whether 
+refinements are necessary.
+
+3. The OIG sample of cases contained rounding errors in calculating borrower age.
+(Refer to page 5 of draft report)
+Single Family Response:
+HUD policy requires mortgagees to use the estimated date of closing to calculate the borrower’s 
+age (see Section II.B.5.i.vii.(B)(4) of HUD Handbook 4000.1, FHA Single Family Housing 
+Policy Handbook). The OIG found that in some cases the mortgagee rounded up for borrower 
+age and withheld more LESA funds than required. Single Family disagrees with the OIG’s 
+conclusion that borrower age was calculated incorrectly. It is reasonable for the mortgagee to 
+round up in the event that the estimated closing date does not align with the actual closing date.
+4. HUD does not have measurable goals for LESA performance.
+(Refer to page 5 of draft report)
+Single Family Response:
+Single Family disagrees with the OIG’s conclusion that HUD does not have measurable goals 
+for LESA performance. HUD actively monitors the performance of the HECM portfolio, 
+including the incidence of tax and insurance defaults. The HECM financial assessment, which 
+established the LESA requirements, was introduced to mitigate increasing tax and insurance 
+defaults. Evaluating LESA fund depletion may provide an approach to forecast future tax and 
+insurance defaults, but it is the incidence of tax and insurance defaults that is the key metric for 
+monitoring LESA performance.
+Single Family will propose and submit a Management Decision to respond to the audit 
+recommendation after the issuance of the final audit report. Single Family will provide action 
+plans and final action target dates in its Management Decision.
+
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 14 
+Appendix C – Criteria 
+HUD Handbook 4000.1, FHA Single Family Housing Policy Handbook (Issued April 29, 2024)  
+II.B.5.iii. (2) Credit Payment History Requiring Additional Analysis    
+If a Borrower’s credit history does not reflect satisfactory credit, the borrower’s payment history requires 
+additional analysis.  Where the borrower has not met the requirements for satisfactory credit, and no 
+extenuating circumstances can be documented, the mortgagee must, at a minimum, require a fully 
+funded LESA.
+ 
+ 
+vii. B Standard (4) Calculation for Projected Life Expectancy Property Charges   
+Mortgagees must calculate projected life expectancy property charges for each HECM using: 
+• 120 percent of the projected sum of:  
+o current property taxes;  
+o hazard Insurance premiums; and  
+o flood Insurance premiums; 
+• the HECM Expected Rate; 
+• the annual MIP rate; and 
+• the life expectancy of the youngest borrower, with the borrower age rounded up to the nearest 
+whole year if the next birthday is less than 183 days after the estimated date of closing. 
+ 
+The formula used to calculate projected life expectancy property charges is: {1.2 × (PC ÷12)} × {(1 + c)m+1 
+- (
+1 + c)} ÷ {c × (1 + c)m}   
+PC (Property Charges) divided by 12 is the current total monthly property charge for property taxes, 
+ha
+zard insurance, and flood insurance. 
+(5) Calculation for Fully Funded LESA: The formula to calculate the amount of the fully funded LESA is the 
+sa
+me as the projected life expectancy property charges. 
+Appendix 9.0                                  
+(a) Required tables.  In calculating the total annual loan cost rates, creditors shall assume three loan 
+periods, as determined by the following table.  
+(b) Loan periods.  
+(1) Loan Period 1 is a two-year loan period.  
+(2) Loan Period 2 is the life expectancy in years of the youngest Borrower to become obligated on 
+the
+ reverse mortgage loan, as shown in the U.S. Decennial Life Tables for 1979–1981 for females, 
+rounded to the nearest whole year.  
+(3) Loan Period 3 is the life expectancy figure in Loan Period 2, multiplied by 1.4, and rounded to the 
+nea
+rest full year (life expectancy figures at 0.5 have been rounded up to 1).  
+(4) At the creditor’s option, an additional period may be included, which is the life expectancy figure 
+in
+ Loan Period 2, multiplied by 0.5, and rounded to the nearest full year (life expectancy figures at 
+0.5 have been rounded up to 1). 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 15 
+vii. Life Expectancy Property Charges (A) Definitions                                                                                                                                                               
+Projected life expectancy property charges refer to the amount of HECM proceeds necessary to pay 
+property taxes, hazard insurance, and flood insurance, if applicable, based on the life expectancy of the 
+youngest borrower. 
+Life Expectancy Set-Aside (LESA) refers to a set-aside account that is established for the payment of 
+property taxes, Hazard Insurance, and, if applicable, flood insurance until expended or while the HECM is 
+not in due and payable status.  LESA funds cannot be held in an escrow account.  
+  
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 16 
+Appendix D – Total Years LESA Fund Available 
+Loan Increase 
+Percentage* State 
+HUD 
+Projected 
+Life 
+Expectancy 
+Total Years 
+LESA Fund 
+Available 
+1 188% CA 20 6 
+2 54% GA 18 11 
+3 98% SC 18 7 
+4 163% UT 18 8 
+5 107% CO 16 9 
+6 224% FL 17 6 
+7 221% FL 16 4 
+8 259% FL 13 4 
+9 57% LA 15 9 
+10 97% TX 15 6 
+11 116% CO 11 7 
+12 20% CO 13 9 
+13 183% CO 13 5 
+14 373% CA 12 2 
+15 32% NY 12 6 
+16 250% AL 8 4 
+17 84% CA 10 5 
+18 55% CO 8 5 
+19 51% WA 10 6 
+20 21% WA 8 6 
+21 116% FL 7 2 
+22 20% CA 5 4 
+24 -36% MI 6 2 
+25 33% VA 7 4 
+26 193% AZ 18 7 
+28 84% GA 18 10 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 17 
+Loan Increase 
+Percentage* State 
+HUD 
+Projected 
+Life 
+Expectancy 
+Total Years 
+LESA Fund 
+Available 
+29 121% IN 21 9 
+30 189% KS 19 7 
+31 184% LA 18 6 
+32 62% NC 19 10 
+33 34% PA 20 5 
+34 43% TX 19 11 
+35 144% AR 16 6 
+37 76% CO 14 8 
+38 231% FL 16 5 
+39 135% GA 14 5 
+40 144% CA 16 7 
+41 143% LA 16 7 
+42 127% LA 13 7 
+43 73% NE 15 9 
+44 17% NY 17 11 
+45 86% TX 16 8 
+46 100% TX 13 6 
+47 141% TX 14 7 
+48 142% FL 12 6 
+49 268% FL 12 4 
+50 64% IN 10 6 
+51 483% CA 13 3 
+52 123% CA 12 2 
+53 35% MS 10 6 
+54 87% NC 12 6 
+56 16% TX 11 7 
+57 176% TX 12 4 
+58 132% VA 12 7 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 18 
+Loan Increase 
+Percentage* State 
+HUD 
+Projected 
+Life 
+Expectancy 
+Total Years 
+LESA Fund 
+Available 
+59 136% FL 10 3 
+60 80% FL 8 5 
+61 180% ID 9 2 
+62 89% IL 9 5 
+63 107% IA 9 4 
+64 130% MD 10 4 
+66 53% OR 8 6 
+67 74% SC 10 7 
+68 239% TX 10 4 
+69 147% TX 9 4 
+70 48% AZ 6 3 
+71 112% GA 8 4 
+72 41% GA 6 4 
+74 116% CA 6 3 
+76 37% NY 7 5 
+77 69% OR 6 4 
+78 5% TX 5 3 
+80 171% WA 5 2 
+*These loans were originated in 2018 through 2022 and are 
+based on the original property charges compared to 2024 
+property charges.  We omitted loans with no exceptions 
+during our loan file review.  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 19 
+Appendix E – Sample Projection – Results and Methodology 
+Projections: HUD HECM Life Expectancy Set Aside Calculations Audit 
+Method: Stratified Systematic Random Sample 
+Confidence Interval: One-sided 95%  
+ 
+Findings: 
+Based on a stratified random sample designed to minimize error, we can say the following statement: 
+ 
+Dollars of Maximum Claim Amounts: 
+We found that in 72 out of 80 loan records reviewed, there were deficiencies.  Of these loans with 
+deficiencies, this amounts to a weighted average by measurement of the maximum claim amount of 
+$281,329.02 per loan.  Deducting the statistical margin of error to accommodate for the uncertainties 
+i
+nherent in statistical sampling, we can say – with a one-sided confidence interval of 95 percent – that 
+this amounts to at least $244,124.91 per loan.  In the context of the universe of 1,462 loans, this 
+amounts to at least $356,910,622.70 in maximum claim amount valuation, and it could be more. 
+ 
+Dollars of Maximum Claim Amounts with Loss Rate Applied: 
+We found that in 72 out of 80 loan records reviewed, there were deficiencies.  Of these loans with 
+deficiencies, this amounts to a weighted average by measurement of the maximum claim amount 
+utilizing the loss rate of 72.3 percent of $203,400.88 per loan.  Deducting the statistical margin of error 
+to accommodate for the uncertainties inherent in statistical sampling, we can say – with a one-sided 
+confidence interval of 95 percent – that this amounts to at least $176,502.31 per loan.  In the context 
+of the universe of 1,462 loans, this amounts to at least $258,046,380.21 in maximum claim amount 
+valuation using the 72.3 percent loss rate figure, and it could be more. 
+ 
+Counts of LESA Deficiencies: 
+We found that in 72 out of 80 loan records reviewed, there were deficiencies.  This amounts to a 
+weighted average of 90.06 percent of the records.  Deducting the statistical margin of error to 
+accommodate for the uncertainties inherent in statistical sampling, we can still say – with a one-sided 
+confidence interval of 95 percent – that this amounts to at least 84.65 percent of the records in the 
+universe have this same characteristic.  Extending this percent to the total universe count of 1,462 
+loans - we can say, there were at least 1,237 loans with the same deficiency, and it could be more. 
+ 
+Methodology 
+Stratified Systematic Random Sample: We identified a stratified systematic random sample of 80 
+records for auditing among the audit universe for sampling.  We used a systematic design to help 
+control differences that may be present across the age groups.  To do this, we sorted the data by the 
+strata and the age of the youngest borrower at endorsement.  The sample size equation with a finite 
+population correction factor calls for 65 records to sample.  However, to ensure accurate sampling 
+coverage, we added 15 more records to make the sample count 80. 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 20 
+Sample Design Table 
+ 
+Stratum Label 
+Total 
+Count per 
+Stratum 
+Sample 
+Count per 
+Stratum 
+Sampling 
+Weight 
+Age 62 - 66 235 13 18.08 
+Age 67 - 71 346 19 18.21 
+Age 72 - 76 304 16 19.00 
+Age 77 - 81 289 16 18.06 
+Age 82 and Over 288 16 18.00 
+Total 1,462 80 N/A 
+ 
+We computed the percentage and number of counts of records for each result based on the sampling 
+results and we extended this result to the population using the surveyfreq8
+8 The surveyfreq procedure produces one-way to n-way frequency and crosstabulation tables from sample survey 
+data.  These tables include estimates of population totals, population proportions, and their standard errors. 
+Confidence limits, coefficients of variation, and design effects are also available.  The procedure provides a variety 
+of options to customize the table display.  Please reference The SURVEYFREQ Procedure (sas.com) for more 
+inf
+ormation. 
+ procedure provided by 
+SAS® .9
+9 SAS (previously "Statistical Analysis System") is a statistical software suite developed by SAS Institute for data 
+management, advanced analytics, multivariate analysis, business intelligence, criminal investigation, and predictive 
+analytics. 
+  W e estimated the lower confidence interval using a Gaussian 10
+10In statistics, a normal distribution or “Gaussian” distribution is a type of continuous probability distribution for a 
+real-valued random variable. 
+ sampling distribution, which is 
+app
+ropriate for error rates in this range.  We extended these percentages to 1,462 records in the 
+universe to get the total universe count of these records. 
+ 
+We used the surveymeans11
+11 The surveymeans procedure estimates characteristics of a survey population by using statistics computed from a 
+survey sample.  It enables you to estimate statistics such as means, totals, proportions, quantiles, geometric 
+means, and ratio Please reference The SURVEYMEANS Procedure (sas.com) for more information. 
+ procedure in SAS® to estimate the total dollars by calculating the mean and 
+standard error for the average dollar of maximum claim amount with the loss rate applied.  We reduced 
+this amount by the margin of error (i.e. the standard error with a student’s t factor) associated with this 
+sample design and then extended that to the 1,462 universe. 
+ 
+The basic estimation calculations are as follows: 
+ 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐿𝐿𝐿𝐿𝐿𝐿 = N * (
+ µ - 𝐴𝐴𝛼𝛼/2 𝑆𝑆𝑆𝑆$) 
+𝐿𝐿𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐿𝐿𝐿𝐿𝐿𝐿 = N *  (pct - 𝐴𝐴𝛼𝛼/2 𝑆𝑆𝑆𝑆%) 
+ 
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐿𝐿𝐿𝐿𝐿𝐿 = t otal audit finding amount after deducting a margin of error. 
+𝐿𝐿𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐿𝐿𝐿𝐿𝐿𝐿 = to tal number of sampling units with the error after deducting a margin of error. 
+N = Number of sampling units in the universe. 
+µ = Weighted average value of the error per unit. 
+ 
+   
+ 
+Office of Audit and Evaluation | Office of Inspector General  Page | 21 
+pct = Weighted percent of sampling units with the error in the sampling frame. 
+𝑆𝑆𝑆𝑆$ = Standard error per unit, as applies to projecting dollars. 
+𝑆𝑆𝑆𝑆% = Standard error per unit, as applies to projecting proportions. 
+𝐴𝐴𝛼𝛼/2 = S tudent’s - t for projecting a one-sided confidence interval for a sample of this size. 
+ 
+Our findings with mathematical demonstrations are as follows: 
+ 
+Dollars of Maximum Claim Amounts: 
+We found that in 72 out of 80 loan records reviewed, there were deficiencies.  Of these loans with 
+deficiencies, this amounts to a weighted average by measurement of the maximum claim amount 
+of $281,329.02 per loan.  Deducting the statistical margin of error to accommodate for the 
+uncertainties inherent in statistical sampling, we can say – with a one-sided confidence interval of 
+95 percent – that this amounts to at least $244,124.91 per loan.  In the context of the universe of 
+1,462 loans, this amounts to at least $356,910,622.70 in maximum claim amount valuation, and it 
+could be more. 
+ 
+Per Loan: $281,329.02 – 1.664 ⨉ $22,339.10 ≈ $244,124.91 LC
+ L 
+Universe of Loans: $411,303,025.51 – 1.664 ⨉ $32,659,765.90 ≈ $356,910,622.70LCL 
+ 
+Dollars of Maximum Claim Amounts with Loss Rate Applied: 
+We found that in 72 out of 80 loan records reviewed, there were deficiencies.  Of these loans with 
+deficiencies, this amounts to a weighted average by measurement of the maximum claim amount 
+utilizing the loss rate of 72.3 percent of $203,400.88 per loan.  Deducting the statistical margin of 
+error to accommodate for the uncertainties inherent in statistical sampling, we can say – with a one-
+sided confidence interval of 95 percent – that this amounts to at least $176,502.31 per loan.  In the 
+context of the universe of 1,462 loans, this amounts to at least $258,046,380.21 in maximum claim 
+amount valuation using the 72.3 percent loss rate figure, and it could be more. 
+ 
+Per Loan: $203,400.88 – 1.664 ⨉ $16,151.17 ≈ $176,502.31LCL 
+U
+niverse of Loans: $297,372,087.44 – 1.664 ⨉ $23,613,010.74 ≈ $258,046,380.21LCL 
+ 
+Counts of LESA Deficiencies: 
+We found that in 72 out of 80 loan records reviewed, there were deficiencies.  This amounts to a 
+weighted average of 90.06 percent of the records.  Deducting the statistical margin of error to 
+accommodate for the uncertainties inherent in statistical sampling, we can still say – with a one-sided 
+confidence interval of 95 percent – that this amounts to at least 84.65 percent of the records in the 
+universe have this same characteristic.  Extending this percent to the total universe count of 1,462 
+loans - we can say, there were at least 1,237 loans with the same deficiency, and it could be more. 
+ 
+Percentage Calculation: 90.06% – (1.664 ⨉ 3.25%) ≈ 84.65% LCL 
+T
+otal Projection: 1,462 ⨉ (90.06% – (1.664 ⨉ 3.25%)) ≈ 1,237.63 L CL 

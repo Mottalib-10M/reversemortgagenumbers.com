@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { src } from '../../lib/helpers';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('contact', lang);
+const description = 'Write to the publisher of Reverse Mortgage Math about a factor, a limit, a cost rule or a source. E-mail only: no form, no call back, no lender and no advice on your loan.';
+---
+<PageLayout title="Contact Reverse Mortgage Math: corrections to a figure or a source" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Contact</h1>
+    <p>By e-mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. No form, no newsletter and no call back: the site lends nothing and passes no one to a lender, so it has no reason to collect names or phone numbers.</p>
+    <h2>Messages that help</h2>
+    <ul>
+      <li>A principal limit that differs from the payment plan of a lender for the same age, expected rate and value: give the three inputs and the two figures.</li>
+      <li>A new Mortgagee Letter, a new factor table or the 2027 limit that the site has not picked up yet.</li>
+      <li>Embedding the calculator on a counseling agency, senior center or blog site: the code is on the <a href={route('widget', lang)}>embed page</a>.</li>
+    </ul>
+    <h2>What we cannot do</h2>
+    <p>We do not quote rates, recommend lenders, review a Loan Estimate or tell anyone whether to take a reverse mortgage. HUD-approved counselors do that review for free or at low cost: <Fragment set:html={src('hud_counselors', 'HUD list of housing counseling agencies')} />.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+  </div>
+</PageLayout>

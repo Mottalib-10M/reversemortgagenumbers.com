@@ -1,0 +1,30 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { route } from '../../i18n/routes';
+import { AUTHOR_NAME, AUTHOR_DESC, CONTACT_EMAIL } from '../../data/site-config';
+import { src } from '../../lib/helpers';
+import { profilePageSchema, breadcrumbSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('about', lang);
+const title = 'Reverse mortgage calculator 2026: who builds Reverse Mortgage Math';
+const description = 'Reverse Mortgage Math is published by Radif Partners: HECM calculators built on the HUD factor table and FHA rules, with no lender behind and no name or phone asked.';
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[profilePageSchema({ path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path }])]} breadcrumbs={[{ label: 'About' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>About Reverse Mortgage Math</h1>
+    <p>{AUTHOR_DESC.en}</p>
+    <h2>The gap this site fills</h2>
+    <p>Most reverse mortgage calculators belong to lenders. Some ask for a name, an address and a phone number before showing a figure; others show one amount with no word on the mortgage insurance, the origination fee or the limit on what can be drawn in the first year. HUD's own calculator still carries the label of fiscal year 2018 and asks for the inputs of a loan officer. None of them publishes the factor table that decides the amount.</p>
+    <p>This site does better than the first Google result because it publishes the HUD principal limit factor table in force and follows the HUD payment plan form line by line: the 2 % and 0.5 % mortgage insurance, the origination cap, the liens paid off, the set-aside for taxes and insurance, the first-year limit, the credit line that grows and the balance over time, without asking for a name, an address or a phone number.</p>
+    <h2>Who publishes it</h2>
+    <p>The site is published by {AUTHOR_NAME}, a company that builds calculators on public rules. It is not a lender, a mortgage broker, a housing counseling agency or a government agency, receives no commission and has no partner to send you to. Pages carry no affiliate link and no lead form.</p>
+    <LegalIdentity lang={lang} />
+    <h2>What we rely on</h2>
+    <p>The <Fragment set:html={src('hud_plf', 'HUD principal limit factor table')} />, <Fragment set:html={src('ml_2025_22', 'Mortgagee Letter 2025-22')} /> for the 2026 limit, <Fragment set:html={src('handbook', 'HUD Handbook 4000.1')} />, <Fragment set:html={src('cfr_206', '24 CFR part 206')} />, the <Fragment set:html={src('hud_payplan', 'HUD payment plan form')} />, the life table of <Fragment set:html={src('regz_appl', 'Regulation Z, Appendix L')} />, the <Fragment set:html={src('treasury_yield', 'Treasury yield curve')} />, IRS Publication 936 and the Social Security POMS.</p>
+    <h2>What the site leaves out</h2>
+    <p>We cannot quote a lender's margin, appraise a home or check whether a condominium is approved. Proprietary reverse mortgages, which some lenders offer above the FHA limit, follow each lender's own tables and are not modeled. The <a href={route('method', lang)}>method page</a> lists every formula and its limits; the <a href={route('editorial', lang)}>editorial policy</a> explains corrections.</p>
+    <h2>Contact</h2>
+    <p><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>, for corrections and sources. We answer questions about a rule, not about your own loan.</p>
+  </article>
+</PageLayout>

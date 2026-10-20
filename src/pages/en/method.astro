@@ -1,0 +1,59 @@
+---
+/** Method: every rule, every formula, the tests, the limits. Figures from the kit. */
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { KIT as K } from '../../lib/kit';
+import { src, table } from '../../lib/helpers';
+import { breadcrumbSchema, webPageSchema } from '../../lib/seo';
+const lang = 'en';
+const path = route('method', lang);
+const P = K.P, R = P.rates, O = P.origination;
+const title = 'Reverse Mortgage Calculator Method 2026: HUD Rules, US';
+const description = 'How the 2026 reverse mortgage calculators work: HUD factor table, FHA limit, 2 % and 0.5 % MIP, origination cap, first-year limit, set-aside and growth, step by step.';
+const ex = K.loan();
+const lesa74 = K.lesa(6000, 74, K.EXP);
+const life = Object.entries(P.lesa.lifeExpectancy as Record<string, number>);
+const per = Math.ceil(life.length / 4);
+const lifeRows: string[][] = Array.from({ length: per }, (_, i) => [0, 1, 2, 3].flatMap((c) => { const e = life[c * per + i]; return e ? [e[0] === '95' ? '95 +' : e[0], String(e[1])] : ['', '']; }));
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[webPageSchema({ name: 'How we calculate', description, path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'How we calculate', path }])]} breadcrumbs={[{ label: 'How we calculate' }]}>
+  <article class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>How the calculators work</h1>
+    <p>Every calculator on this site runs in your browser on one engine and two data files: the principal limit factor table published by HUD and a file of program rules, each with its source and the date it was read ({K.day(P.retrieved_at)} for this edition). The order of the steps follows the HUD form that a lender fills in at closing, the HECM payment plan. This page lists each rule, the formulas, the tests and what is left out.</p>
+
+    <h2>1. Maximum claim amount</h2>
+    <p>The maximum claim amount (MCA) is the lesser of the appraised value, the sales price in a purchase, and the national limit. For case numbers assigned from {K.day(P.limits.caseNumbersFrom)} to {K.day(P.limits.caseNumbersTo)} the limit is {K.usd(P.limits.mca2026)}, 150 % of the national conforming limit of {K.usd(P.limits.conforming2026)} (<Fragment set:html={src('ml_2025_22', 'Mortgagee Letter 2025-22')} />); it was {K.usd(P.limits.mca2025)} in 2025. The 2027 limit is not published yet: it is expected in {P.limits.next.expected} and will be {P.limits.next.rule}.</p>
+
+    <h2>2. Expected rate and principal limit factor</h2>
+    <p>For an adjustable HECM the expected rate is the lender's margin plus the 10-year Treasury rate (weekly average of the constant maturity series); for a fixed-rate HECM it is the note rate (<Fragment set:html={src('handbook', 'Handbook 4000.1')} />). HUD rounds it to the nearest 1/8 percent and the age of the youngest borrower or eligible non-borrowing spouse to the nearest year (<Fragment set:html={src('hud_calc_help', 'HUD calculator help')} />), then reads the factor in the <Fragment set:html={src('hud_plf', 'principal limit factor table')} />, in force for case numbers assigned since {K.day(P.plf.effective)} ({P.plf.letter}). The table covers ages {P.plf.ageMin} to {P.plf.ageMax} and expected rates of {K.pp(P.plf.rateMin, 0)} to {K.pp(P.plf.rateMax)}. The principal limit is MCA × factor.</p>
+    <p>The default rate of the calculators is the 10-year Treasury average of the week ending {K.day(R.cmt10WeekEnding)}, {K.pp(R.cmt10Week, 2)}, plus an example margin of {K.pp(R.exampleMargin, 1)}: {K.pp(K.EXP)}, read as {K.pp(K.rateT(K.EXP))} in the table. The margin is set by each lender, so it is an input. For a 70-year-old and a {K.usd(400000)} home, the factor is {K.f(ex.factor)} and the principal limit {K.usd(ex.pl)}.</p>
+
+    <h2>3. Mandatory obligations</h2>
+    <p>Line 10 of the payment plan adds what must be paid at closing: the upfront mortgage insurance premium, {K.pct(P.mip.upfront, 0)} of the MCA; the origination fee; other closing costs; the liens paid off; the sales price in a purchase; and the first-year disbursements of the set-aside. The origination fee may not exceed the greater of {K.usd(O.floor)} or {K.pct(O.tier1Rate, 0)} of the first {K.usd(O.tier1Limit)} of the MCA plus {K.pct(O.tier2Rate, 0)} of the rest, with a cap of {K.usd(O.cap)} (<Fragment set:html={src('cfr_206_31', '24 CFR 206.31')} />). Third-party costs (appraisal, title, recording, counseling fee) vary by county and lender; the calculators leave them at zero until you enter the figures of your Loan Estimate.</p>
+
+    <h2>4. First-year limit</h2>
+    <p>In the first 12 months, the borrower may receive the greater of 60 % of the principal limit or the mandatory obligations plus 10 % of the principal limit, without exceeding the principal limit minus the set-aside beyond year one and the servicing fee set-aside (<Fragment set:html={src('hud_payplan', 'payment plan, lines 17 to 21')} />; <Fragment set:html={src('cfr_206', '24 CFR 206.25(a)')} />). The 10 % rule takes over when obligations pass 50 % of the principal limit. A fixed-rate HECM pays one lump sum at closing within that limit; what is left of the principal limit can never be drawn.</p>
+
+    <h2>5. Life expectancy set-aside (LESA)</h2>
+    <p>When the financial assessment requires it, the lender holds back {K.dec(P.lesa.factor, 1)} × the monthly property charges × [(1 + c)<sup>m+1</sup> − (1 + c)] ÷ [c × (1 + c)<sup>m</sup>], where c is (expected rate + annual MIP) ÷ 12 and m is the life expectancy of the youngest borrower in months, from the table of <Fragment set:html={src('regz_appl', 'Regulation Z, Appendix L')} /> (<Fragment set:html={src('handbook', 'Handbook 4000.1')} />). For a 74-year-old (12 years, 144 months) with {K.usd(6000)} of taxes and insurance a year, at {K.pp(K.EXP)}, the set-aside is {K.usd(lesa74)}. A partially funded set-aside uses the monthly shortfall of residual income instead of the charges; above {K.pct(P.lesa.partialShareCap, 0)} of the full amount, the full one applies.</p>
+    <Fragment set:html={table(['Age', 'Years', 'Age', 'Years', 'Age', 'Years', 'Age', 'Years'], lifeRows, 'Life expectancy used for the set-aside, Regulation Z Appendix L.', ['l', 'r', 'l', 'r', 'l', 'r', 'l', 'r'])} />
+
+    <h2>6. Growth and the balance over time</h2>
+    <p>Each month, the principal limit, the loan balance, the set-aside and the unused credit line grow by one twelfth of the note rate plus the {K.pct(P.mip.annual, 1)} annual MIP (<Fragment set:html={src('handbook', 'Handbook 4000.1')} />). The projections hold the note rate at its starting value, the 1-year Treasury average ({K.pp(R.cmt1Week, 2)}) plus the margin for an adjustable loan. Taxes and insurance are paid from the set-aside each month while it lasts. A servicing fee, when charged, comes out of its own set-aside, sized over the months to age 100.</p>
+
+    <h2>7. Monthly payments</h2>
+    <p>Term and tenure payments are the level monthly amounts that, with interest at the expected rate plus annual MIP, use up the net principal limit over the chosen term, or over 12 × (100 − the lesser of the age and 95) months for tenure (<Fragment set:html={src('cfr_206', '24 CFR 206.25(e) and (f)')} />). The calculators pay them at the start of each month, which gives a slightly lower payment than an end-of-month schedule.</p>
+
+    <h2>8. Tests</h2>
+    <p>Before each build, automated tests compare the engine with values read in HUD's workbook (for example {K.f(K.plf(62, 5))} at 62 and 5 %, {K.f(K.plf(70, 5))} at 70 and 5 %), with the fee rule at the floor, the switch from 2 % to 1 % and the cap, with the Handbook's life expectancy examples (144 months at 74, 132 at 76), and with the payment plan lines in each case: obligations below and above half the principal limit, obligations above the principal limit, fixed rate, set-aside.</p>
+
+    <h2>9. What is not modeled</h2>
+    <ul>
+      <li>Changes of the adjustable rate after closing: the note rate is held constant in projections.</li>
+      <li>Home price growth, which changes what heirs keep but not what the borrower can draw.</li>
+      <li>Repair set-asides, the property charge set-aside of 24 CFR 206.205(d) and lender credits.</li>
+      <li>Proprietary (non-FHA) reverse mortgages and SOFR-indexed loans, which follow lender tables.</li>
+    </ul>
+    <p>Corrections: <a href={route('contact', lang)}>contact page</a>. These are calculations from public rules, not a loan offer or personal advice.</p>
+  </article>
+</PageLayout>

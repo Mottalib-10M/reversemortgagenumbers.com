@@ -1,0 +1,71 @@
+{
+  "_lisezmoi": "Tous les paramètres du site vivent ici, jamais en dur dans le code (RECETTE-SITE.md §4). Chaque valeur a été relue sur la source officielle citée le 2026-10-20. La table des facteurs PLF est dans plf.json.",
+  "year": 2026,
+  "retrieved_at": "2026-10-20",
+  "valid_from": "2026-01-01",
+  "valid_to": "2026-12-31",
+  "limits": {
+    "mca2026": 1249125,
+    "mca2025": 1209750,
+    "conforming2026": 832750,
+    "mcaShareOfConforming": 1.5,
+    "caseNumbersFrom": "2026-01-01",
+    "caseNumbersTo": "2026-12-31",
+    "letter": "Mortgagee Letter 2025-22",
+    "letterDate": "2025-12-11",
+    "next": { "status": "pending", "year": 2027, "expected": "December 2026", "rule": "150% of the 2027 Freddie Mac national conforming loan limit, set by FHFA" }
+  },
+  "plf": {
+    "rateMin": 3.0,
+    "rateMax": 18.875,
+    "rateStep": 0.125,
+    "ageMin": 18,
+    "ageMax": 99,
+    "effective": "2017-10-02",
+    "letter": "Mortgagee Letter 2017-12",
+    "rounding": "Expected rate rounded to the nearest 1/8 percent; age rounded to the nearest whole year (HUD HECM calculator help)."
+  },
+  "eligibility": { "borrowerMinAge": 62, "maxCashOutHeirsShare": 0.95 },
+  "mip": { "upfront": 0.02, "annual": 0.005 },
+  "origination": { "floor": 2500, "tier1Limit": 200000, "tier1Rate": 0.02, "tier2Rate": 0.01, "cap": 6000 },
+  "firstYear": { "base": 0.6, "extra": 0.1 },
+  "lesa": {
+    "factor": 1.2,
+    "partialShareCap": 0.75,
+    "lifeTable": "Regulation Z, Appendix L to Part 1026 (TALC life expectancy, column 2)",
+    "lifeExpectancy": { "62": 21, "63": 20, "64": 19, "65": 18, "66": 18, "67": 17, "68": 16, "69": 16, "70": 15, "71": 14, "72": 13, "73": 13, "74": 12, "75": 12, "76": 11, "77": 10, "78": 10, "79": 9, "80": 9, "81": 8, "82": 8, "83": 7, "84": 7, "85": 6, "86": 6, "87": 6, "88": 5, "89": 5, "90": 5, "91": 4, "92": 4, "93": 4, "94": 4, "95": 3 }
+  },
+  "servicing": { "maxMonthlyFixedOrAnnual": 30, "maxMonthlyMonthlyAdjusting": 35 },
+  "tenure": { "endAge": 100, "ageCap": 95 },
+  "refi": { "imipLimitFactor": 0.03, "costMultiple": 5, "counselingWaiverYears": 5 },
+  "purchase": { "occupancyDays": 60 },
+  "rates": {
+    "cmt10Week": 5.15,
+    "cmt10WeekEnding": "2026-10-16",
+    "cmt10Daily": 5.15,
+    "cmt10DailyDate": "2026-10-19",
+    "cmt1Week": 4.49,
+    "exampleMargin": 1.5,
+    "_note": "Weekly average of the daily 10-year and 1-year Treasury par yields of October 13 to 16, 2026 (Treasury daily par yield curve, read 2026-10-20). The margin is an example to be replaced by the lender's margin: no margin is set by HUD."
+  },
+  "oig": { "report": "2026-KC-0003", "month": "2026-05", "borrowers": 1237, "projectedLossMillions": 258, "lifeTables": "1979-81" },
+  "sources": {
+    "hud_plf": { "url": "https://www.hud.gov/sites/dfiles/SFH/documents/FY%202018%20PLF%20Tables-Rvsd%20Introduction.xls", "label": { "en": "HUD, HECM Principal Limit Factor tables (FY 2018 PLF Tables, revised), in force since October 2, 2017" } },
+    "hud_lenders": { "url": "https://www.hud.gov/hud-partners/single-family-lender", "label": { "en": "HUD, Single Family lender resources: 2026 nationwide HECM limit and PLF tables" } },
+    "ml_2025_22": { "url": "https://www.hud.gov/sites/dfiles/hudclips/documents/2025-22hsgml.pdf", "label": { "en": "HUD, Mortgagee Letter 2025-22, 2026 HECM limits ($1,249,125)" } },
+    "ml_2017_12": { "url": "https://www.hud.gov/sites/documents/17-12ml.pdf", "label": { "en": "HUD, Mortgagee Letter 2017-12, HECM principal limit factors and mortgage insurance premiums" } },
+    "handbook": { "url": "https://www.hud.gov/sites/default/files/Housing/documents/40001-hsgh-Update-18.pdf", "label": { "en": "HUD Handbook 4000.1, FHA Single Family Housing Policy Handbook, Update 18 (HECM chapters)" } },
+    "cfr_206": { "url": "https://www.ecfr.gov/current/title-24/subtitle-B/chapter-II/subchapter-B/part-206", "label": { "en": "24 CFR part 206, Home Equity Conversion Mortgage Insurance" } },
+    "cfr_206_31": { "url": "https://www.ecfr.gov/current/title-24/section-206.31", "label": { "en": "24 CFR 206.31, allowable charges and fees (origination fee cap)" } },
+    "regz_appl": { "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1026/appendix-Appendix%20L%20to%20Part%201026", "label": { "en": "Regulation Z, Appendix L to Part 1026, life expectancy table" } },
+    "hud_payplan": { "url": "https://www.hud.gov/sites/dfiles/SFH/documents/HECM_Adjustable_Rate_Payment_Plan.pdf", "label": { "en": "HUD, HECM Adjustable Rate Payment Plan form (Exhibit 1)" } },
+    "hud_calc": { "url": "https://entp.hud.gov/idapp/html/f17hecm-calc.cfm", "label": { "en": "HUD, HECM calculator (FHA Connection)" } },
+    "hud_calc_help": { "url": "https://entp.hud.gov/sfohlp/f17hcmcalcprhlpp.cfm", "label": { "en": "HUD, HECM calculator help: expected rate and age rounding" } },
+    "hud_counselors": { "url": "https://apps.hud.gov/offices/hsg/sfh/hcc/hcs.cfm", "label": { "en": "HUD, list of approved housing counseling agencies" } },
+    "treasury_yield": { "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026", "label": { "en": "U.S. Treasury, daily par yield curve rates, 2026" } },
+    "fed_h15": { "url": "https://www.federalreserve.gov/releases/h15/", "label": { "en": "Federal Reserve, H.15 selected interest rates" } },
+    "irs_936": { "url": "https://www.irs.gov/publications/p936", "label": { "en": "IRS Publication 936, Home Mortgage Interest Deduction (reverse mortgages)" } },
+    "ssa_poms": { "url": "https://secure.ssa.gov/poms.nsf/lnx/0501120220", "label": { "en": "Social Security POMS SI 01120.220, cash loans and SSI" } },
+    "oig_lesa": { "url": "https://www.oversight.gov/sites/default/files/documents/reports/2026-05/2026-kc-0003_508_0.pdf", "label": { "en": "HUD Office of Inspector General, audit 2026-KC-0003 on life expectancy set-asides (May 2026)" } }
+  }
+}
