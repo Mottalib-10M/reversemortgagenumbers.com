@@ -7,6 +7,7 @@
 import PageLayout from '../layouts/PageLayout.astro';
 import Clamp from './Clamp.astro';
 import Tool from './Tool.astro';
+import Body from './Body.astro';
 import { HOME } from '../content/home';
 import { route, ROUTES } from '../i18n/routes';
 import { GROUPS } from '../i18n/nav';
@@ -43,7 +44,7 @@ const has = (id: string) => ROUTES.some((r) => r.id === id);
     <p class="mt-2 text-navy-700">{x.tableIntro}{has('principal-limit-factor') && <> <a href={route('principal-limit-factor', lang)} class="text-accent-700 underline">Full HUD table</a></>}</p>
     <Fragment set:html={table(x.tableHead, x.tableRows, x.tableCaption, ['l', 'r', 'r', 'r', 'r', 'r'])} />
   </section>
-  <section class="prose prose-slate max-w-none prose-headings:font-serif"><Fragment set:html={x.why(h)} /></section>
+  <section><Body html={x.why(h)} path={path} /></section>
   <section class="mt-10" data-chrome>
     {GROUPS.map((g) => (
       <div class="mb-6">

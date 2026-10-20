@@ -35,7 +35,7 @@ const RT: Input = { kind: 'choice', id: 'rt', label: 'Rate type', def: 'arm', op
 const CMT10: Input = { id: 'c10', label: '10-year Treasury (CMT)', def: R.cmt10Week, unit: '%', max: 20, decimals: 3, adv: true, help: `Weekly average to ${R.cmt10WeekEnding}`, showIf: { id: 'rt', is: 'arm' } };
 const CMT1: Input = { id: 'c1', label: '1-year Treasury (CMT)', def: R.cmt1Week, unit: '%', max: 20, decimals: 3, adv: true, help: 'Index of the starting note rate', showIf: { id: 'rt', is: 'arm' } };
 const LIENS = (def = 0): Input => ({ id: 'liens', label: 'Mortgage to pay off', def, unit: '$', max: 20000000, help: 'Liens paid at closing from the loan' });
-const CLOSING: Input = { id: 'cc', label: 'Other closing costs', def: 0, unit: '$', max: 200000, help: 'Appraisal, title, recording: from your Loan Estimate' };
+const CLOSING: Input = { id: 'cc', label: 'Other closing costs', def: 0, unit: '$', max: 200000, help: 'Appraisal, title, recording: from the lender’s cost estimate' };
 const ORIG: Input = { kind: 'choice', id: 'orig', label: 'Origination fee', def: 'max', options: [{ value: 'max', label: 'Legal maximum' }, { value: 'none', label: 'Waived' }] };
 const LESA: Input = { kind: 'select', id: 'lesa', label: 'Taxes and insurance set-aside', def: 'none', options: [{ value: 'none', label: 'None (you pay them)' }, { value: 'full', label: 'Fully funded LESA' }, { value: 'partial', label: 'Partially funded LESA' }], adv: true };
 const CHARGES = (adv = true): Input => ({ id: 'tax', label: 'Property taxes + insurance a year', def: 6000, unit: '$', max: 500000, adv, help: 'Example amount: use your tax bill and policy' });

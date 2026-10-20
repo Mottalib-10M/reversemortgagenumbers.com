@@ -25,7 +25,7 @@ const loan = (a: Partial<HecmIn> = {}) => { const x = { ...DEF, ...a }; if (a.fi
 export const KIT = {
   P, tool, DEF, EXP: DEFAULT_EXPECTED, NOTE: DEFAULT_NOTE, LIMIT: P.limits.mca2026,
   loan,
-  project: (a: Partial<HecmIn> = {}, years = 30, monthly = 0, months = 0) => { const x = { ...DEF, ...a }; return project(hecm(x), x, years, monthly, months); },
+  project: (a: Partial<HecmIn> = {}, years = 30, monthly = 0, months = 0) => { const x = { ...DEF, ...a }; if (a.fixed && a.note === undefined) x.note = x.expected; return project(hecm(x), x, years, monthly, months); },
   plf, mca, orig: originationCap, imip, lesa: lesaFull, lesaPartial, talc: talcYears, credit: creditAfter, balance: balanceAfter, heirs: heirsPayoff,
   pay: monthlyPayment, tenureMonths, refi: refiImip, rateT: rateForTable, sfsa: servicingSetAside,
   usd, usd2, pct, pp, f: factor, num: (x: number) => formatNumber(x, 0), dec: (x: number, d = 2) => formatDecimal(x, d), day: (iso: string) => displayDate(iso, 'en-US'),

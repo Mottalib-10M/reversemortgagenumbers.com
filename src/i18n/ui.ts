@@ -9,6 +9,6 @@ const en = {
   footerPopular: 'Reverse mortgage by age and home value',
   notFound: 'This address leads nowhere. The calculator on the home page gives the amount of a HECM reverse mortgage from the HUD factor table, with every FHA cost line by line.',
   readMore: 'Read the full answer',
-  estimate: 'Amounts follow the HUD factor table and FHA rules in force on the date shown; the figures of a lender’s Loan Estimate and payment plan are the ones that count. Rates, margins and closing costs vary by lender. This is general information, not a loan offer or personal advice. We lend nothing and refer no one.',
+  estimate: 'Amounts follow the HUD factor table and FHA rules in force on the date shown; the figures of a lender’s written cost estimate and payment plan are the ones that count. Rates, margins and closing costs vary by lender. This is general information, not a loan offer or personal advice. We lend nothing and refer no one.',
 };
 export function t(_lang: Locale) { return en; }

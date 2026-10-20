@@ -9,7 +9,7 @@ const lang = 'en';
 const path = route('method', lang);
 const P = K.P, R = P.rates, O = P.origination;
 const title = 'Reverse Mortgage Calculator Method 2026: HUD Rules, US';
-const description = 'How the 2026 reverse mortgage calculators work: HUD factor table, FHA limit, 2 % and 0.5 % MIP, origination cap, first-year limit, set-aside and growth, step by step.';
+const description = 'How the 2026 reverse mortgage calculators work: HUD factor table, FHA limit, 2 % and 0.5 % MIP, origination cap, first-year limit, set-aside and growth.';
 const ex = K.loan();
 const lesa74 = K.lesa(6000, 74, K.EXP);
 const life = Object.entries(P.lesa.lifeExpectancy as Record<string, number>);
@@ -29,7 +29,7 @@ const lifeRows: string[][] = Array.from({ length: per }, (_, i) => [0, 1, 2, 3].
     <p>The default rate of the calculators is the 10-year Treasury average of the week ending {K.day(R.cmt10WeekEnding)}, {K.pp(R.cmt10Week, 2)}, plus an example margin of {K.pp(R.exampleMargin, 1)}: {K.pp(K.EXP)}, read as {K.pp(K.rateT(K.EXP))} in the table. The margin is set by each lender, so it is an input. For a 70-year-old and a {K.usd(400000)} home, the factor is {K.f(ex.factor)} and the principal limit {K.usd(ex.pl)}.</p>
 
     <h2>3. Mandatory obligations</h2>
-    <p>Line 10 of the payment plan adds what must be paid at closing: the upfront mortgage insurance premium, {K.pct(P.mip.upfront, 0)} of the MCA; the origination fee; other closing costs; the liens paid off; the sales price in a purchase; and the first-year disbursements of the set-aside. The origination fee may not exceed the greater of {K.usd(O.floor)} or {K.pct(O.tier1Rate, 0)} of the first {K.usd(O.tier1Limit)} of the MCA plus {K.pct(O.tier2Rate, 0)} of the rest, with a cap of {K.usd(O.cap)} (<Fragment set:html={src('cfr_206_31', '24 CFR 206.31')} />). Third-party costs (appraisal, title, recording, counseling fee) vary by county and lender; the calculators leave them at zero until you enter the figures of your Loan Estimate.</p>
+    <p>Line 10 of the payment plan adds what must be paid at closing: the upfront mortgage insurance premium, {K.pct(P.mip.upfront, 0)} of the MCA; the origination fee; other closing costs; the liens paid off; the sales price in a purchase; and the first-year disbursements of the set-aside. The origination fee may not exceed the greater of {K.usd(O.floor)} or {K.pct(O.tier1Rate, 0)} of the first {K.usd(O.tier1Limit)} of the MCA plus {K.pct(O.tier2Rate, 0)} of the rest, with a cap of {K.usd(O.cap)} (<Fragment set:html={src('cfr_206_31', '24 CFR 206.31')} />). Third-party costs (appraisal, title, recording, counseling fee) vary by county and lender; the calculators leave them at zero until you enter the figures of the lender’s cost estimate.</p>
 
     <h2>4. First-year limit</h2>
     <p>In the first 12 months, the borrower may receive the greater of 60 % of the principal limit or the mandatory obligations plus 10 % of the principal limit, without exceeding the principal limit minus the set-aside beyond year one and the servicing fee set-aside (<Fragment set:html={src('hud_payplan', 'payment plan, lines 17 to 21')} />; <Fragment set:html={src('cfr_206', '24 CFR 206.25(a)')} />). The 10 % rule takes over when obligations pass 50 % of the principal limit. A fixed-rate HECM pays one lump sum at closing within that limit; what is left of the principal limit can never be drawn.</p>
