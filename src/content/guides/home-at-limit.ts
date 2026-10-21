@@ -19,7 +19,7 @@ export default defineGuide({
   id: 'home-at-limit',
   group: 'home',
   order: 50,
-  slug: 'reverse-mortgage-on-1249125-home',
+  slug: 'reverse-mortgage-home-at-the-limit',
   nav: 'Reverse mortgage on a $1,249,125 home',
   card: 'The 2026 limit itself: the largest HECM amount at each age',
   title: 'Reverse Mortgage on a $1,249,125 Home 2026: Top Amount, US',

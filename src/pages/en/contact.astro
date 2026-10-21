@@ -7,9 +7,9 @@ import { src } from '../../lib/helpers';
 import { contactPageSchema } from '../../lib/seo';
 const lang = 'en';
 const path = route('contact', lang);
-const description = 'Write to the publisher of Reverse Mortgage Math about a factor, a limit, a cost rule or a source. E-mail only: no form, no call back, no lender and no advice on your loan.';
+const description = 'Write to the publisher of Reverse Mortgage Numbers about a factor, a limit, a cost rule or a source. E-mail only: no form, no call back, no lender and no advice on your loan.';
 ---
-<PageLayout title="Contact Reverse Mortgage Math: corrections to a figure or a source" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+<PageLayout title="Contact Reverse Mortgage Numbers: corrections to a figure or a source" description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path, lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
   <div class="prose prose-slate max-w-none prose-headings:font-serif">
     <h1>Contact</h1>
     <p>By e-mail: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. No form, no newsletter and no call back: the site lends nothing and passes no one to a lender, so it has no reason to collect names or phone numbers.</p>

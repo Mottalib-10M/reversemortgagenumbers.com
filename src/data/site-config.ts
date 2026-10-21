@@ -1,6 +1,6 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://us-reverse-mortgage.example";
-export const SITE_NAMES: Record<string, string> = {"en": "Reverse Mortgage Math"};
+export const SITE_URL = "https://reversemortgagenumbers.com";
+export const SITE_NAMES: Record<string, string> = {"en": "Reverse Mortgage Numbers"};
 export const LANG_TAGS: Record<string, string> = {"en": "en-US"};
 export const OG_LOCALES: Record<string, string> = {"en": "en_US"};
 export const LOCALE_TAG = 'en-US';
@@ -16,7 +16,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners loads 
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["HECM principal limit factors by age and expected rate", "FHA maximum claim amount and mortgage insurance premiums", "Origination fees, closing costs and mandatory obligations", "Life expectancy set-aside for property taxes and insurance", "Reverse mortgage line of credit growth and loan balance over time"]};
-export const CONTACT_EMAIL = "contact@us-reverse-mortgage.example";
+export const CONTACT_EMAIL = "contact@reversemortgagenumbers.com";
 export const THEME_COLOR = '#7A3B12';
 export const LOGO_SYMBOL = '62+';
 export const BING_VERIFY_CODE = '';

@@ -7,12 +7,12 @@ import { src } from '../../lib/helpers';
 import { profilePageSchema, breadcrumbSchema } from '../../lib/seo';
 const lang = 'en';
 const path = route('about', lang);
-const title = 'Reverse Mortgage Math 2026: Who Builds These Calculators, US';
-const description = 'Reverse Mortgage Math, 2026: HECM calculators by Radif Partners, built on the HUD factor table and FHA rules, with no lender behind and no name or phone asked.';
+const title = 'Reverse Mortgage Numbers 2026: Who Builds This Site, US';
+const description = 'Reverse Mortgage Numbers, 2026: HECM calculators by Radif Partners, built on HUD\'s factor table and FHA rules, with no lender behind and no name or phone asked.';
 ---
 <PageLayout title={title} description={description} lang={lang} jsonLd={[profilePageSchema({ path, lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path }])]} breadcrumbs={[{ label: 'About' }]}>
   <article class="prose prose-slate max-w-none prose-headings:font-serif">
-    <h1>About Reverse Mortgage Math</h1>
+    <h1>About Reverse Mortgage Numbers</h1>
     <p>{AUTHOR_DESC.en}</p>
     <h2>The gap this site fills</h2>
     <p>Most reverse mortgage calculators belong to lenders. Some ask for a name, an address and a phone number before showing a figure; others show one amount with no word on the mortgage insurance, the origination fee or the limit on what can be drawn in the first year. HUD's own calculator still carries the label of fiscal year 2018 and asks for the inputs of a loan officer. None of them publishes the factor table that decides the amount.</p>

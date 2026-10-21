@@ -1,6 +1,6 @@
 {
- "name": "Reverse Mortgage Math",
- "short_name": "Reverse Mortgage Math",
+ "name": "Reverse Mortgage Numbers",
+ "short_name": "Reverse Mortgage Numbers",
  "description": "Reverse mortgage (HECM) amounts from the HUD principal limit factor table, with every FHA cost shown: upfront and annual MIP, origination cap, set-aside, first-year limit.",
  "start_url": "/en/",
  "display": "standalone",

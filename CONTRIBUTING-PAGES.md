@@ -1,4 +1,4 @@
-# Écrire ou étoffer une page de Reverse Mortgage Math (us-reverse-mortgage)
+# Écrire ou étoffer une page de Reverse Mortgage Numbers (us-reverse-mortgage)
 
 Notice pour les agents qui écrivent les pages. À lire en entier avant d'écrire, avec
 `~/Documents/GitHub/RECETTE-SITE.md` (§0, §5, §6, §6.5, §7, §9.3, §11, §17.4, §21, §26).
@@ -8,7 +8,7 @@ de la table des facteurs de limite de principal (PLF) publiée par HUD, ligne pa
 (« HECM Adjustable Rate Payment Plan », Exhibit 1) : plafond 2026, MIP 2 % et 0,5 %, frais d'origination plafonnés,
 dettes soldées, set-aside LESA, limite de la 1re année, ligne de crédit qui croît, solde dans le temps, paiements
 mensuels, règle des 95 % pour les héritiers, HECM for Purchase, refinancement. **Anglais américain seul**, sous `/en/`.
-Éditeur : la société **Radif Partners** (jamais un nom de personne). Nom : « Reverse Mortgage Math ».
+Éditeur : la société **Radif Partners** (jamais un nom de personne). Nom : « Reverse Mortgage Numbers ».
 
 **L'angle (phrase de valeur ajoutée)** : les calculateurs des prêteurs demandent nom, adresse et téléphone avant
 l'estimation (longbridge-financial.com) ou donnent un montant sans aucun coût (lendingtree.com) ; l'outil de HUD porte

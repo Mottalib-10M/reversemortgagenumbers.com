@@ -1,4 +1,4 @@
-# Données de Reverse Mortgage Math (us-reverse-mortgage) : d'où elles viennent, comment les refaire
+# Données de Reverse Mortgage Numbers (us-reverse-mortgage) : d'où elles viennent, comment les refaire
 
 Toutes les valeurs affichées sortent de deux fichiers de `src/data/`. Rien n'est saisi à la main dans le code ni dans
 les pages (`CONTRIBUTING-PAGES.md`).
